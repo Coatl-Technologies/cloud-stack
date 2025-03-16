@@ -1,5 +1,4 @@
-# cloud-stack (Cóatl Tech )
-### Miguel Ángel Carvajal Ramos Cloud Egineer
+# cloud-stack
 
 #### Amazon Web Services (AWS).
 - Amazon Elastic Compute Cloud (EC2): Instances, Imgages, Load Balancing, Auto Scaling.
